@@ -15,53 +15,53 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Variables ###
 
-- [ x ] 1.- Crear variable tipo **let** de nombre **variableSinValor** declarada **sin valor**
+- [x] 1.- Crear variable tipo **let** de nombre **variableSinValor** declarada **sin valor**
 
-- [ X ] 2.- Crear **2 variables** tipo **let** de nombres **booleano1** y **booleano2** con valores **booleanos**
+- [x] 2.- Crear **2 variables** tipo **let** de nombres **booleano1** y **booleano2** con valores **booleanos**
 
-- [ X ] 3.- Crear variable tipo **const** de nombre **PI** declarada con valor **3.14**
+- [x] 3.- Crear variable tipo **const** de nombre **PI** declarada con valor **3.14**
 
-- [ X ] 4.- Crear variable tipo **const** de nombre **TAU** declarada con valor **2 veces PI**
+- [x] 4.- Crear variable tipo **const** de nombre **TAU** declarada con valor **2 veces PI**
 
 ### Booleanos ###
 
-- [ X ] 5.- Crear variable **booleanoAnd** cuyo valor sea la comparación booleana **booleano1 and booleano2**
+- [x] 5.- Crear variable **booleanoAnd** cuyo valor sea la comparación booleana **booleano1 and booleano2**
 
-- [ X ]  6.- Crear variable **booleanoNot** cuyo valor sea la compracación booleana **no booleano1**
+- [x]  6.- Crear variable **booleanoNot** cuyo valor sea la compracación booleana **no booleano1**
 
-- [ X ] 7.- Crear variable **booleanoMix0** cuyo valor sea la compración booleana **(booleano1 or booleano2) and (booleano1 or (not booleano1 and not booleano2)**
+- [x] 7.- Crear variable **booleanoMix0** cuyo valor sea la compración booleana **(booleano1 or booleano2) and (booleano1 or (not booleano1 and not booleano2)**
 
 ### Operadores ###
 
-- [ X ] 8.- Crear variable **incrementarDesp** con valor **2** y **asigna su valor con postincremento a resultadoDesp**
+- [x] 8.- Crear variable **incrementarDesp** con valor **2** y **asigna su valor con postincremento a resultadoDesp**
 
-- [ X ] 9.- Crear variable **incrementarAntes** con valor **2** y **asigna su valor con preincremento a resultadoAntes**
+- [x] 9.- Crear variable **incrementarAntes** con valor **2** y **asigna su valor con preincremento a resultadoAntes**
 
 ### Bucles ###
 
-- [ X ] 10.- Crear variable **contarHasta10_2** con valor **0** e incrementar su valor con un **bucle for hasta que se verifique que contarHasta10_2 === 10** 
+- [x] 10.- Crear variable **contarHasta10_2** con valor **0** e incrementar su valor con un **bucle for hasta que se verifique que contarHasta10_2 === 10** 
 
-- [ X ] 11.- Crear las variables **postI** y **postJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de postI el valor de postJ++**
+- [x] 11.- Crear las variables **postI** y **postJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de postI el valor de postJ++**
 
-- [ X ] 12.- Crear la variable **sumaPares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10)** si la iteración es par se deberá **sumar a sumaPares el número de la iteración actual (i)**
+- [x] 12.- Crear la variable **sumaPares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10)** si la iteración es par se deberá **sumar a sumaPares el número de la iteración actual (i)**
 
 ## Iteraciones :european_castle: proyecto individual :european_castle: ##
 
 ### Variables ###
 
-- [ X ] 13.- Crear variable tipo **let** de nombre **variableValorNumerico** declarada con un **valor numérico cualquiera**
+- [x] 13.- Crear variable tipo **let** de nombre **variableValorNumerico** declarada con un **valor numérico cualquiera**
 
-- [ X ] 14.- Crear variable tipo **const** de nombre **MiNombre** declarada con valor **tu nombre**
+- [x] 14.- Crear variable tipo **const** de nombre **MiNombre** declarada con valor **tu nombre**
 
-- [ X ] 15.- Crear variable tipo **const** de nombre **<<<MiNumeroFav>>>** declarada con **valor numérico**
+- [x] 15.- Crear variable tipo **const** de nombre **<<<MiNumeroFav>>>** declarada con **valor numérico**
 
 ### Booleanos ###
 
-- [ X ] 16.- Crear variable **booleanoOr** cuyo calor sea la comparación booleana **booleano1 or booleano2**
+- [x] 16.- Crear variable **booleanoOr** cuyo calor sea la comparación booleana **booleano1 or booleano2**
 
-- [ X ] 17.- Crear variable **booleanoMix1** cuyo valor sea la comparación booleana **(booleano1 and (TAU/2 sea igual a PI)) or (variableValorNumerico mayor o igual que MiNumeroFav)**
+- [x] 17.- Crear variable **booleanoMix1** cuyo valor sea la comparación booleana **(booleano1 and (TAU/2 sea igual a PI)) or (variableValorNumerico mayor o igual que MiNumeroFav)**
 
-- [ X ] 18.- Crear variable **seisNoEsNueve** cuyo valor sea la comparación booleana **6 no es estrictamente igual que 9**
+- [x] 18.- Crear variable **seisNoEsNueve** cuyo valor sea la comparación booleana **6 no es estrictamente igual que 9**
 
 
 - [  ] 19.- Crear variable **booleanoMix2** cuyo valor sea la comparación booleana **variableValorNumerico positivo (0 no incluido) o menor que -(MiNumeroFav * TAU)**
