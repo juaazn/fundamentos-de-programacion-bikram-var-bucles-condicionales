@@ -47,7 +47,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ## Iteraciones :european_castle: proyecto individual :european_castle: ##
 
-### Variables ###
+### **Variables** ###
 
 - [x] 13.- Crear variable tipo **let** de nombre **variableValorNumerico** declarada con un **valor numérico cualquiera**
 
@@ -64,22 +64,22 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 - [x] 18.- Crear variable **seisNoEsNueve** cuyo valor sea la comparación booleana **6 no es estrictamente igual que 9**
 
 
-- [  ] 19.- Crear variable **booleanoMix2** cuyo valor sea la comparación booleana **variableValorNumerico positivo (0 no incluido) o menor que -(MiNumeroFav * TAU)**
+- [x] 19.- Crear variable **booleanoMix2** cuyo valor sea la comparación booleana **variableValorNumerico positivo (0 no incluido) o menor que -(MiNumeroFav * TAU)**
 
 ### Operadores ###
 
-- [  ] 20.- Crear variable **valorSuma** cuyo valor sea **la suma de MiNumeroFav y variableValorNumerico**
+- [x] 20.- Crear variable **valorSuma** cuyo valor sea **la suma de MiNumeroFav y variableValorNumerico**
 
-- [  ] 21.-  Crear variable **valorResta** cuyo valor sea **la resta de MiNumeroFav y variableValorNumerico**
+- [x] 21.-  Crear variable **valorResta** cuyo valor sea **la resta de MiNumeroFav y variableValorNumerico**
 
-- [  ] 22.-  Crear variable **valorMultiplicación** cuyo valor sea **la multiplicación de MiNumeroFav por variableValorNumerico**
+- [x] 22.-  Crear variable **valorMultiplicación** cuyo valor sea **la multiplicación de MiNumeroFav por variableValorNumerico**
 
-- [  ] 23.-  Crear variable **valorDivisión** cuyo valor sea **la división de MiNumeroFav entre 3**
+- [x] 23.-  Crear variable **valorDivisión** cuyo valor sea **la división de MiNumeroFav entre 3**
 
 ### Bucles ###
 
-- [  ] 24.- Crear variable **contarHasta10** con valor **0** e incrementar su valor con un **bucle while hasta que se verifique que contarHasta10 === 10**
+- [x] 24.- Crear variable **contarHasta10** con valor **0** e incrementar su valor con un **bucle while hasta que se verifique que contarHasta10 === 10**
 
-- [  ] 25.- Crear las variables **preI** y **preJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de preI el valor de ++preJ**
+- [x] 25.- Crear las variables **preI** y **preJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de preI el valor de ++preJ**
 
-- [  ] 26.- Crear la variable **sumaImpares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10) si la iteración es impar se deberá sumar a sumaImpares el número de la iteración actual (i)**
+- [x] 26.- Crear la variable **sumaImpares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10) si la iteración es impar se deberá sumar a sumaImpares el número de la iteración actual (i)**
